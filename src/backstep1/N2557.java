@@ -1,5 +1,5 @@
 //입출력과 사칙연산
-package step1;
+package backstep1;
 
 public class N2557 {
     public static void main(String[] args) {

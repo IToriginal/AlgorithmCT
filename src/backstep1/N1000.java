@@ -1,5 +1,5 @@
 //입출력과 사칙연산
-package step1;
+package backstep1;
 //Scanner 를 사용하기 위한 import
 import java.util.Scanner;
 
