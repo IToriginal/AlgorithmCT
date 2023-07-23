@@ -123,3 +123,6 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Test File
+!/src/Test.java
