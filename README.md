@@ -10,6 +10,13 @@ Start: 2023. 07. 28 (금) 22:00 <br>
 > - 문제를 풀어서 맞췄더라도 다른 사람이 어떻게 풀었는지 확인하기
 
 ----
+### 2023. 08. 07 (월)
+#### 👀 Questions to solve again
+- [BOJ_10809](https://www.acmicpc.net/problem/10809)
+- [BOJ_10250](https://www.acmicpc.net/problem/10250)
+- [BOJ_8958](https://www.acmicpc.net/problem/8958)
+- [BOJ_1157](https://www.acmicpc.net/problem/1157)
+
 ### 2023. 08. 06 (일)
 #### 👀 Questions to solve again
 - [BOJ_11654](https://www.acmicpc.net/problem/11654)
@@ -25,10 +32,15 @@ Start: 2023. 07. 28 (금) 22:00 <br>
 - [BOJ_10699](https://www.acmicpc.net/problem/10699)
 - [BOJ_11382](https://www.acmicpc.net/problem/11382)
 
+### 2023. 08. 01(화)
+현재 등급: CLASS 2
+#### 📝 Task
+- CLASS 2 ... 5문제
+
 ### 2023. 07. 31(월)
 현재 등급: CLASS 1
 #### 📝 Task
-- CLASS 1++ ... 14문제
+✅ ~~CLASS 1++ ... 14문제~~
 
 ### 2023. 07. 30 (일)
 현재 등급: CLASS 1 
