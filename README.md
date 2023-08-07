@@ -10,6 +10,14 @@ Start: 2023. 07. 28 (금) 22:00 <br>
 > - 문제를 풀어서 맞췄더라도 다른 사람이 어떻게 풀었는지 확인하기
 
 ----
+### 2023. 08. 14 (월)
+#### 👀 Questions to solve again
+- [♻️ BOJ_2738](https://www.acmicpc.net/problem/2738)
+- [♻️ BOJ_1157](https://www.acmicpc.net/problem/1157)
+- [♻️ BOJ_10809](https://www.acmicpc.net/problem/10809)
+- [BOJ_7568](https://www.acmicpc.net/problem/7568)
+- [BOJ_1436](https://www.acmicpc.net/problem/1436)
+
 ### 2023. 08. 11 (금)
 #### 👀 Questions to solve again
 - [BOJ_2775](https://www.acmicpc.net/problem/2775)
@@ -33,29 +41,30 @@ Start: 2023. 07. 28 (금) 22:00 <br>
 - [BOJ_11651](https://www.acmicpc.net/problem/11651)
 
 ### 2023. 08. 07 (월)
+현재 등급: CLASS 2
 #### 👀 Questions to solve again
-- [BOJ_10809](https://www.acmicpc.net/problem/10809)
-- [BOJ_10250](https://www.acmicpc.net/problem/10250)
-- [BOJ_8958](https://www.acmicpc.net/problem/8958)
-- [BOJ_1157](https://www.acmicpc.net/problem/1157)
+♻️ [BOJ_10809](https://www.acmicpc.net/problem/10809)
+✅ ~~[BOJ_10250](https://www.acmicpc.net/problem/10250)~~
+✅ ~~[BOJ_8958](https://www.acmicpc.net/problem/8958)~~
+♻️ [BOJ_1157](https://www.acmicpc.net/problem/1157) </br>
+✅ ~~CLASS 2 ... 3문제~~ 
 
 ### 2023. 08. 06 (일)
 #### 👀 Questions to solve again
-- [BOJ_11654](https://www.acmicpc.net/problem/11654)
-- [BOJ_2744](https://www.acmicpc.net/problem/2744)
+✅ ~~[BOJ_11654](https://www.acmicpc.net/problem/11654)~~
+✅ ~~[BOJ_2744](https://www.acmicpc.net/problem/2744)~~
 
 ### 2023. 08. 05 (토)
 현재 등급: CLASS 2
 #### 👀 Questions to solve again
-- [BOJ_10951](https://www.acmicpc.net/problem/10951)
-- [BOJ_2738](https://www.acmicpc.net/problem/2738)
-- CLASS 2 ... 3문제
+✅ ~~[BOJ_10951](https://www.acmicpc.net/problem/10951)~~
+♻️ [BOJ_2738](https://www.acmicpc.net/problem/2738)
 
 ### 2023. 08. 04 (금)
 현재 등급: CLASS 2
 #### 👀 Questions to solve again
 ✅ ~~[BOJ_10699](https://www.acmicpc.net/problem/10699)~~
-✅ ~~[BOJ_11382](https://www.acmicpc.net/problem/11382)~~
+✅ ~~[BOJ_11382](https://www.acmicpc.net/problem/11382)~~ </br>
 ✅ ~~CLASS 2 ... 3문제~~
 
 ### 2023. 08. 03(목)
