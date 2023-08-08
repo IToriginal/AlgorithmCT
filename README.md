@@ -12,6 +12,11 @@ Start: 2023. 07. 28 (금) 22:00 <br>
 ----
 ### 2023. 08. 14 (월)
 #### 👀 Questions to solve again
+- [BOJ_11650](https://www.acmicpc.net/problem/11650)
+- [BOJ_1676](https://www.acmicpc.net/problem/1676)
+
+### 2023. 08. 14 (월)
+#### 👀 Questions to solve again
 - [♻️ BOJ_2738](https://www.acmicpc.net/problem/2738)
 - [♻️ BOJ_1157](https://www.acmicpc.net/problem/1157)
 - [♻️ BOJ_10809](https://www.acmicpc.net/problem/10809)
@@ -38,7 +43,8 @@ Start: 2023. 07. 28 (금) 22:00 <br>
 - [BOJ_1018](https://www.acmicpc.net/problem/1018)
 - [BOJ_1181](https://www.acmicpc.net/problem/1181)
 - [BOJ_1259](https://www.acmicpc.net/problem/1259)
-- [BOJ_11651](https://www.acmicpc.net/problem/11651)
+- [BOJ_11651](https://www.acmicpc.net/problem/11651) </br>
+✅ ~~CLASS 2 ... 3문제~~
 
 ### 2023. 08. 07 (월)
 현재 등급: CLASS 2
