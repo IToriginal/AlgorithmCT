@@ -10,6 +10,16 @@ Start: 2023. 07. 28 (금) 22:00 <br>
 > - 문제를 풀어서 맞췄더라도 다른 사람이 어떻게 풀었는지 확인하기
 
 ----
+### 2023. 08. 17 (목)
+#### 👀 Questions to solve again
+- [BOJ_1920](https://www.acmicpc.net/problem/1920)
+- [BOJ_1929](https://www.acmicpc.net/problem/1929)
+- [BOJ_1978](https://www.acmicpc.net/problem/1978)
+
+### 2023. 08. 16 (수)
+#### 👀 Questions to solve again
+- [BOJ_1874](https://www.acmicpc.net/problem/1874)
+
 ### 2023. 08. 15 (화)
 #### 👀 Questions to solve again
 - [BOJ_11650](https://www.acmicpc.net/problem/11650)
@@ -31,6 +41,7 @@ Start: 2023. 07. 28 (금) 22:00 <br>
 ### 2023. 08. 10 (목)
 #### 👀 Questions to solve again
 - [BOJ_10828](https://www.acmicpc.net/problem/10828)
+✅ ~~CLASS 2 ... 3문제~~
 
 ### 2023. 08. 09 (수)
 #### 👀 Questions to solve again
