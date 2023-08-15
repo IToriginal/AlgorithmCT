@@ -10,14 +10,22 @@ Start: 2023. 07. 28 (금) 22:00 <br>
 > - 문제를 풀어서 맞췄더라도 다른 사람이 어떻게 풀었는지 확인하기
 
 ----
-### 2023. 08. 20 (월)
+### 2023. 08. 22 (화)
+- [♻️ BOJ_2775](https://www.acmicpc.net/problem/2775)
+- [♻️ BOJ_11866](https://www.acmicpc.net/problem/11866)
+- [♻️ ♻️ BOJ_11866](https://www.acmicpc.net/problem/11866)
+- [♻️ BOJ_7568](https://www.acmicpc.net/problem/7568)
+- [♻️ BOJ_11650](https://www.acmicpc.net/problem/11650)
+- [♻️ BOJ_1676](https://www.acmicpc.net/problem/1676)
+
+### 2023. 08. 21 (월)
 - [BOJ_10814](https://www.acmicpc.net/problem/2798)
 
-### 2023. 08. 18 (토)
+### 2023. 08. 19 (토)
 - [♻️ BOJ_1018](https://www.acmicpc.net/problem/1018)
 - [♻️ BOJ_11651](https://www.acmicpc.net/problem/11651)
 
-### 2023. 08. 17 (금)
+### 2023. 08. 18 (금)
 #### 👀 Questions to solve again
 - [BOJ_2798](https://www.acmicpc.net/problem/2798)
 - [BOJ_10866](https://www.acmicpc.net/problem/10866)
@@ -35,22 +43,22 @@ Start: 2023. 07. 28 (금) 22:00 <br>
 
 ### 2023. 08. 15 (화)
 #### 👀 Questions to solve again
-- [BOJ_11650](https://www.acmicpc.net/problem/11650)
-- [BOJ_1676](https://www.acmicpc.net/problem/1676)
+♻️ [BOJ_11650](https://www.acmicpc.net/problem/11650)
+♻️ [BOJ_1676](https://www.acmicpc.net/problem/1676)
 
 ### 2023. 08. 14 (월)
 #### 👀 Questions to solve again
-- [♻️ BOJ_2738](https://www.acmicpc.net/problem/2738)
-- [♻️ BOJ_1157](https://www.acmicpc.net/problem/1157)
-- [♻️ BOJ_10809](https://www.acmicpc.net/problem/10809)
-- [BOJ_7568](https://www.acmicpc.net/problem/7568)
-- [BOJ_1436](https://www.acmicpc.net/problem/1436) </br>
-  ✅ ~~CLASS 2 ... 3문제~~ 
+✅ ~~[♻️ BOJ_2738](https://www.acmicpc.net/problem/2738)~~
+♻️ [♻️ BOJ_1157](https://www.acmicpc.net/problem/1157)
+✅ ~~[♻️ BOJ_10809](https://www.acmicpc.net/problem/10809)~~
+♻️ [BOJ_7568](https://www.acmicpc.net/problem/7568)
+✅ ~~[BOJ_1436](https://www.acmicpc.net/problem/1436)~~ </br>
+✅ ~~CLASS 2 ... 3문제~~ 
 
 ### 2023. 08. 11 (금)
 #### 👀 Questions to solve again
-- [BOJ_2775](https://www.acmicpc.net/problem/2775)
-- [BOJ_11866](https://www.acmicpc.net/problem/11866) </br>
+♻️ [BOJ_2775](https://www.acmicpc.net/problem/2775)
+♻️ [BOJ_11866](https://www.acmicpc.net/problem/11866) </br>
 ✅ ~~CLASS 2 ... 3문제~~ 
 
 ### 2023. 08. 10 (목)
