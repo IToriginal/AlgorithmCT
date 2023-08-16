@@ -38,8 +38,8 @@ Start: 2023. 07. 28 (금) 22:00 <br>
 
 ### 2023. 08. 16 (수)
 #### 👀 Questions to solve again
-- [♻️ BOJ_1654](https://www.acmicpc.net/problem/1654)
-- [BOJ_1874](https://www.acmicpc.net/problem/1874)
+✅ ~~[♻️ BOJ_1654](https://www.acmicpc.net/problem/1654)~~
+✅ ~~[BOJ_1874](https://www.acmicpc.net/problem/1874)~~
 
 ### 2023. 08. 15 (화)
 #### 👀 Questions to solve again
