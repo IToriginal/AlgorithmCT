@@ -1,40 +1,42 @@
 # 🚀 Java 코딩테스트 준비하기 
 
 Start: 2023. 07. 28 (금) 22:00 <br>
-`solved.ac(BOJ)`의 등급별로 풀어나갈 예정입니다. (Java로 익숙해지기)
++ `solved.ac(BOJ)`의 등급별로 풀어나갈 예정입니다. (Java로 익숙해지기)
++ [인프런 강의: 알고리즘 기초](https://www.inflearn.com/course/%EC%9E%90%EB%B0%94-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4-%EC%BD%94%ED%85%8C%EB%8C%80%EB%B9%84/dashboard)
++ [인프런 강의: 알고리즘 심화](https://www.inflearn.com/course/%EC%9E%90%EB%B0%94-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%B5%9C%EC%8B%A0%EA%B8%B0%EC%B6%9C/dashboard) (인프런 기초 강의 이후 수강 예정)
 
- ### 📝 Rule
+
+### 📝 Rule
 > - 30분간 손도 못대는 상태이다. -> 해당 문제를 풀 준비가 안된 상태라 판단하고 다른사람 풀이를 보고 코드 분석
 > - 1시간 동안 풀었는데 비효율적인 코드가 작성되었다. -> 다른 알고리즘을 생각해보고 다른 알고리즘이 생각이 난다면 적용 -> 생각이 나지 않는다면 다른 사람의 풀이를 보고 코드 분석
 > - **다른 사람의 코드를 분석했다면 1주일 뒤에 다시 풀기**
 > - 문제를 풀어서 맞췄더라도 다른 사람이 어떻게 풀었는지 확인하기
 
 ----
-### 2023. 08. 22 (화)
+### 👀 Questions to solve again
+- [BOJ_2798](https://www.acmicpc.net/problem/2798)
+- [BOJ_10866](https://www.acmicpc.net/problem/10866)
+- [BOJ_1920](https://www.acmicpc.net/problem/1920)
+- [BOJ_1929](https://www.acmicpc.net/problem/1929)
+- [BOJ_1978](https://www.acmicpc.net/problem/1978)
+- [BOJ_10814](https://www.acmicpc.net/problem/2798)
 - [♻️ BOJ_2775](https://www.acmicpc.net/problem/2775)
-- [♻️ BOJ_11866](https://www.acmicpc.net/problem/11866)
 - [♻️ ♻️ BOJ_11866](https://www.acmicpc.net/problem/11866)
 - [♻️ BOJ_7568](https://www.acmicpc.net/problem/7568)
 - [♻️ BOJ_11650](https://www.acmicpc.net/problem/11650)
 - [♻️ BOJ_1676](https://www.acmicpc.net/problem/1676)
-
-### 2023. 08. 21 (월)
-- [BOJ_10814](https://www.acmicpc.net/problem/2798)
-
-### 2023. 08. 19 (토)
 - [♻️ BOJ_1018](https://www.acmicpc.net/problem/1018)
 - [♻️ BOJ_11651](https://www.acmicpc.net/problem/11651)
 
 ### 2023. 08. 18 (금)
-#### 👀 Questions to solve again
-- [BOJ_2798](https://www.acmicpc.net/problem/2798)
-- [BOJ_10866](https://www.acmicpc.net/problem/10866)
+- Inflearn ... String 문자열 (12 / 12)
 
 ### 2023. 08. 17 (목)
-#### 👀 Questions to solve again
-- [BOJ_1920](https://www.acmicpc.net/problem/1920)
-- [BOJ_1929](https://www.acmicpc.net/problem/1929)
-- [BOJ_1978](https://www.acmicpc.net/problem/1978)
+#### 📝 Memo
+> `solved.ac`: Class 2에서 지속적으로 막히는 문제 발생 (푼 문제도 다시 보면 헷갈리는 상황이 지속)</br>
+> Java 문법 미숙으로 판단하여 인프런 기초 알고리즘 강의를 완강 후 Class 2부터 다시 재도전😡
+
+✅ ~~Inflearn ... String 문자열 (6 / 12)~~
 
 ### 2023. 08. 16 (수)
 #### 👀 Questions to solve again
