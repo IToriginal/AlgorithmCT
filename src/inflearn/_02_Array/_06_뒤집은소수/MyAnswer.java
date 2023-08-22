@@ -16,19 +16,17 @@ public class MyAnswer {
     }
 
     public String solution(int N, String s) {
-        String answer = "";
-        String reverse = new StringBuilder(s).reverse().toString();
-        String[] split = reverse.split(" ");
+        StringBuilder answer = new StringBuilder();
+        String[] split = s.split(" ");
 
-        int[] numbers = new int[N];
-        for (int i = N - 1; i >= 0; i--) {
-            numbers[i] = Integer.parseInt(split[i]);
-            if (isPrime(numbers[i])) {
-                answer += numbers[i] + " ";
+        for (int i = 0; i < N; i++) {
+            String reverse = new StringBuilder(split[i]).reverse().toString();
+            int number = Integer.parseInt(reverse);
+            if (isPrime(number)) {
+                answer.append(number).append(" ");
             }
         }
-
-        return answer;
+        return answer.toString();
     }
 
     public static void main(String[] args) throws IOException {

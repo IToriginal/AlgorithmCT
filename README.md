@@ -27,6 +27,18 @@ Start: 2023. 07. 28 (금) 22:00 <br>
 - [♻️ BOJ_1676](https://www.acmicpc.net/problem/1676)
 - [♻️ BOJ_1018](https://www.acmicpc.net/problem/1018)
 - [♻️ BOJ_11651](https://www.acmicpc.net/problem/11651)
+
+### 2023. 08. 21 (화)
+✅ ~~Inflearn ... TwoPointers, SlidingWindow, Math (3 / 6)~~ </br>
+❌ No.2: 공통 원소 구하기 </br>
+
+### 2023. 08. 21 (월)
+✅ ~~Inflearn ... Array(1, 2차원 배열) (12 / 12)~~ </br>
+❌ No.9: 격자판최대합 </br>
+❌ No.10: 봉우리 </br>
+❌ No.11: 임시반장정하기 </br>
+❌ No.12: 멘토링 </br>
+
 ### 2023. 08. 19 (토)
 ✅ ~~Inflearn ... Array(1, 2차원 배열) (6 / 12)~~ </br>
 ❌ No.6: 뒤집은 소수
