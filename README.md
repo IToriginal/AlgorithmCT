@@ -28,7 +28,10 @@ Start: 2023. 07. 28 (금) 22:00 <br>
 - [♻️ BOJ_1018](https://www.acmicpc.net/problem/1018)
 - [♻️ BOJ_11651](https://www.acmicpc.net/problem/11651)
 
-### 2023. 08. 21 (화)
+### 2023. 08. 23 (수)
+✅ ~~Inflearn ... TwoPointers, SlidingWindow, Math (6 / 6)~~ </br>
+
+### 2023. 08. 22 (화)
 ✅ ~~Inflearn ... TwoPointers, SlidingWindow, Math (3 / 6)~~ </br>
 ❌ No.2: 공통 원소 구하기 </br>
 
