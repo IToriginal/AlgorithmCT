@@ -28,6 +28,11 @@ Start: 2023. 07. 28 (금) 22:00 <br>
 - [♻️ BOJ_1018](https://www.acmicpc.net/problem/1018)
 - [♻️ BOJ_11651](https://www.acmicpc.net/problem/11651)
 
+### 2023. 08. 24 (목)
+✅ ~~Inflearn ...  HashMap, HashSet, TreeSet (5 / 5)~~ </br>
+❌ No.3: 매출액의 종류 </br>
+❌ No.4: 모든 아나그램 찾기</br>
+
 ### 2023. 08. 23 (수)
 ✅ ~~Inflearn ... TwoPointers, SlidingWindow, Math (6 / 6)~~ </br>
 
