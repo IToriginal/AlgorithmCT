@@ -28,6 +28,10 @@ Start: 2023. 07. 28 (금) 22:00 <br>
 - [♻️ BOJ_1018](https://www.acmicpc.net/problem/1018)
 - [♻️ BOJ_11651](https://www.acmicpc.net/problem/11651)
 
+### 2023. 08. 28 (월)
+✅ ~~Inflearn ...  Stack & Queue (8 / 8)~~ </br>
+❌ No.8: 응급실 </br>
+
 ### 2023. 08. 25 (금)
 ✅ ~~Inflearn ...  Stack & Queue (4 / 8)~~ </br>
 ❌ No.3: 크레인 인형 뽑기 (카카오) </br>
