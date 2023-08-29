@@ -9,15 +9,10 @@ import java.util.*;
 public class MyAnswer {
     public int[] solution(int n, int m, int[] arr1, int[] arr2) {
         HashSet<Integer> set = new HashSet<>();
+        HashMap<Integer, Integer> map = new HashMap<>();
 
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < m; j++) {
-                if (arr1[i] == arr2[j]) {
-                    set.add(arr1[i]);
-                    break;
-                }
-            }
-        }
+        for (int num : arr1) map.put(num, map.getOrDefault(num, 0) + 1);
+        for (int num : arr2) if (map.containsKey(num)) set.add(num);
 
         int[] answer = new int[set.size()];
         int index = 0;
