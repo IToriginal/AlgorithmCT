@@ -28,8 +28,12 @@ Start: 2023. 07. 28 (금) 22:00 <br>
 - [♻️ BOJ_1018](https://www.acmicpc.net/problem/1018)
 - [♻️ BOJ_11651](https://www.acmicpc.net/problem/11651)
 
+### 2023. 09. 11 (월)
+✅ ~~Inflearn ...  Recursive, Tree, Graph(DFS, BFS 기초) (11 / 11)~~ </br>
+- 바로 코드를 작성할 수 있을 정도의 연습 필요
+
 ### 2023. 09. 04 (월)
-✅ ~~Inflearn ...  Recursive, Tree, Graph(DFS, BFS 기초) (7 / 14)~~ </br>
+✅ ~~Inflearn ...  Recursive, Tree, Graph(DFS, BFS 기초) (7 / 11)~~ </br>
 
 ### 2023. 09. 02 (토)
 ✅ ~~Inflearn ...  Sorting and Searching (10 / 10)~~ </br>
