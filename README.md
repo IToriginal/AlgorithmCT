@@ -28,6 +28,11 @@ Start: 2023. 07. 28 (금) 22:00 <br>
 - [♻️ BOJ_1018](https://www.acmicpc.net/problem/1018)
 - [♻️ BOJ_11651](https://www.acmicpc.net/problem/11651)
 
+### 2023. 09. 22 (금)
+✅ ~~Inflearn ...  시뮬레이션 / 구현 (5 / 8)~~ </br>
+❌ 사다리타기 </br>
+❌ 최대길이 바이토닉
+
 ### 2023. 09. 14 (목)
 ✅ ~~Inflearn ...  DFS, BFS (4 / 15)~~ </br>
 - 바로 코드를 작성할 수 있을 정도의 연습 필요
