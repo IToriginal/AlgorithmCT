@@ -17,6 +17,9 @@
     <li><a href='https://github.com/IToriginal/AlgorithmCT/blob/main/src/solvedAc/class3/%EC%83%89%EC%A2%85%EC%9D%B4%EB%A7%8C%EB%93%A4%EA%B8%B0_2630/Main.java'>BOJ2630 - 색종이 만들기</a> : 분할 정복, 재귀 </li>
     <li><a href='https://github.com/IToriginal/AlgorithmCT/blob/main/src/baekjoon/%EA%B7%B8%EB%9E%98%ED%94%84%EC%99%80%EC%88%9C%ED%9A%8C/%EB%8B%A8%EC%A7%80%EB%B2%88%ED%98%B8%EB%B6%99%EC%9D%B4%EA%B8%B0_2667/Main.java'>BOJ2667 - 단지번호붙이기</a> : 그래프, BFS </li>
     <li><a href='https://github.com/IToriginal/AlgorithmCT/blob/main/src/solvedAc/class3/%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%ED%95%A8%EC%88%98_1003/Main.java'>BOJ1003 - 피보나치 함수</a> : 다이나믹 프로그래밍(DP) </li>
+    <li><a href='https://github.com/IToriginal/AlgorithmCT/blob/main/src/solvedAc/class3/%ED%9A%8C%EC%9D%98%EC%8B%A4%EB%B0%B0%EC%A0%95_1931/Main.java'>BOJ1931 - 회의실 배정</a> : 그리디, 정렬 </li>
+    <li><a href='https://github.com/IToriginal/AlgorithmCT/blob/main/src/solvedAc/class3/%EB%82%98%EB%8A%94%EC%95%BC%ED%8F%AC%EC%BC%93%EB%AA%AC%EB%A7%88%EC%8A%A4%ED%84%B0%EC%9D%B4%EB%8B%A4%EC%86%9C_1620/Main.java'>BOJ1620 - 나는야 포켓몬 마스터 이다솜</a> : 구현(자료구조, 해시맵) </li>
+    <li><a href='https://github.com/IToriginal/AlgorithmCT/blob/main/src/solvedAc/class3/Z_1074/Main.java'>BOJ1074 - Z</a> : 분할 정복, 재귀 </li>
   </ul>
 </blockquote>
 </div>
