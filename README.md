@@ -46,6 +46,7 @@
     <li><a href='https://softeer.ai/practice/6283'>Level2 - 8단 변속기</a> : 구현</li>
     <li><a href='https://softeer.ai/practice/6280'>Level2 - 지도 자동 구축</a> : 구현</li>
     <li><a href='https://softeer.ai/practice/6282'>Level2 - 장애물 인식 프로그램</a> : BFS</li>
+    <li><a href='https://softeer.ai/practice/6284'>Level2 - 바이러스</a> : 구현</li>
   </ul>
 </blockquote>
 </div>
