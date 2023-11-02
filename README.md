@@ -48,6 +48,7 @@
     <li><a href='https://softeer.ai/practice/6282'>Level2 - 장애물 인식 프로그램</a> : BFS</li>
     <li><a href='https://softeer.ai/practice/6284'>Level2 - 바이러스</a> : 구현</li>
     <li><a href='https://softeer.ai/practice/6270'>Level2 - GBC</a> : 구현</li>
+    <li><a href='https://softeer.ai/practice/6269'>Level2 - 비밀 메뉴</a> : 구현</li>
   </ul>
 </blockquote>
 </div>
