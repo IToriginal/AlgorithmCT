@@ -10,6 +10,24 @@
 📝 [인프런 - 알고리즘 기초](https://www.inflearn.com/course/%EC%9E%90%EB%B0%94-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4-%EC%BD%94%ED%85%8C%EB%8C%80%EB%B9%84/dashboard) </br>
 📝 [인프런 - 알고리즘 응용](https://www.inflearn.com/course/%EC%9E%90%EB%B0%94-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%B5%9C%EC%8B%A0%EA%B8%B0%EC%B6%9C/dashboard) </br>
 
+<details><summary><b> 🚀 Doit! 알고리즘 코딩테스트 자바편</b></summary>
+<div>
+<blockquote>
+  자료구조
+  <ul>
+    <li> 배열과 리스트</li>
+    <ul>
+      <li> [문제 001] <a href='https://www.acmicpc.net/problem/11720'> 숫자의 합 구하기</a> </li> 
+      <li> [문제 002] <a href='https://www.acmicpc.net/problem/1546'> 평균 구하기</a> </li>
+      <li> [문제 003] <a href='https://www.acmicpc.net/problem/11659'> 구간 합 구하기</a> </li>
+      <li> [문제 004] <a href='https://www.acmicpc.net/problem/11660'> 구간 합 구하기2</a> </li>
+      <li> [문제 005] <a href='https://www.acmicpc.net/problem/10986'> 나머지 합 구하기</a> </li>
+    </ul>
+  </ul>
+</blockquote>
+</div>
+</details>
+
 <details><summary><b> 🚀 SOLVED.AC [CLASS 3]</b></summary>
 <div>
 <blockquote>
