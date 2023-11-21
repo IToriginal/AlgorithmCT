@@ -15,13 +15,27 @@
 <blockquote>
   자료구조
   <ul>
-    <li> 배열과 리스트</li>
+    <li>배열과 리스트</li>
     <ul>
-      <li> [문제 001] <a href='https://www.acmicpc.net/problem/11720'> 숫자의 합 구하기</a> </li> 
-      <li> [문제 002] <a href='https://www.acmicpc.net/problem/1546'> 평균 구하기</a> </li>
-      <li> [문제 003] <a href='https://www.acmicpc.net/problem/11659'> 구간 합 구하기</a> </li>
-      <li> [문제 004] <a href='https://www.acmicpc.net/problem/11660'> 구간 합 구하기2</a> </li>
-      <li> [문제 005] <a href='https://www.acmicpc.net/problem/10986'> 나머지 합 구하기</a> </li>
+      <li> [문제 001] <a href='https://www.acmicpc.net/problem/11720'>숫자의 합 구하기</a> </li> 
+      <li> [문제 002] <a href='https://www.acmicpc.net/problem/1546'>평균 구하기</a> </li>
+    </ul>
+    <li>구간 합</li>
+    <ul>
+      <li> [문제 003] <a href='https://www.acmicpc.net/problem/11659'>구간 합 구하기</a> </li>
+      <li> [문제 004] <a href='https://www.acmicpc.net/problem/11660'>구간 합 구하기2</a> </li>
+      <li> [문제 005] <a href='https://www.acmicpc.net/problem/10986'>나머지 합 구하기</a> </li>
+    </ul>
+    <li>투 포인터</li>
+    <ul>
+      <li> [문제 006] <a href='https://www.acmicpc.net/problem/2018'>연속된 자연수의 합 구하기</a> </li>
+      <li> [문제 007] <a href='https://www.acmicpc.net/problem/1940'>주몽의 명령</a> </li>
+      <li> [문제 008] <a href='https://www.acmicpc.net/problem/1253'>'좋은 수'구하기</a> </li>
+    </ul>
+    <li>슬라이딩 윈도우</li>
+    <ul>
+      <li> [문제 009] <a href='https://www.acmicpc.net/problem/12891'>DNA 비밀번호</a> </li>
+      <li> [문제 010] <a href='https://www.acmicpc.net/problem/11003'>최솟값 찾기</a> </li>
     </ul>
   </ul>
 </blockquote>
