@@ -37,6 +37,13 @@
       <li> [문제 009] <a href='https://www.acmicpc.net/problem/12891'>DNA 비밀번호</a> </li>
       <li> [문제 010] <a href='https://www.acmicpc.net/problem/11003'>최솟값 찾기</a> </li>
     </ul>
+    <li>스택과 큐</li>
+    <ul>
+      <li> [문제 011] <a href='https://www.acmicpc.net/problem/1874'>스택 수열</a> </li>
+      <li> [문제 012] <a href='https://www.acmicpc.net/problem/17298'>오큰수 구하기</a> </li>
+      <li> [문제 013] <a href='https://www.acmicpc.net/problem/2164'>카드 게임</a> </li>
+      <li> [문제 014] <a href='https://www.acmicpc.net/problem/11286'>절댓값 힙 구현하기</a> </li>
+    </ul>
   </ul>
 </blockquote>
 </div>
