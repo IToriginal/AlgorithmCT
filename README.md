@@ -42,11 +42,13 @@
 <details>
 <summary>정렬</summary>
 
-| 분류    | 문제 번호 | 문제 이름           | 링크                                          |
-|-------|-------|-----------------|---------------------------------------------|
-| 버블 정렬 | 015   | 수 정렬하기 1        | [BOJ](https://www.acmicpc.net/problem/2750) |
-| 버블 정렬 | 016   | 버블 소트 프로그램 1    | [BOJ](https://www.acmicpc.net/problem/1377) |
-| 선택 정렬 | 017   | 내림차순으로 자릿수 정렬하기 | [BOJ](https://www.acmicpc.net/problem/1427) |
+| 분류    | 문제 번호 | 문제 이름           | 링크                                           |
+|-------|-------|-----------------|----------------------------------------------|
+| 버블 정렬 | 015   | 수 정렬하기 1        | [BOJ](https://www.acmicpc.net/problem/2750)  |
+| 버블 정렬 | 016   | 버블 소트 프로그램 1    | [BOJ](https://www.acmicpc.net/problem/1377)  |
+| 선택 정렬 | 017   | 내림차순으로 자릿수 정렬하기 | [BOJ](https://www.acmicpc.net/problem/1427)  |
+| 삽입 정렬 | 018   | ATM 인출 시간 계산하기  | [BOJ](https://www.acmicpc.net/problem/11399) |
+| 퀵 정렬  | 019   | K번째 수 구하기       | [BOJ](https://www.acmicpc.net/problem/11004) |
 
 </details>
 
