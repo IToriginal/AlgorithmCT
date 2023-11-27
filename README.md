@@ -49,6 +49,20 @@
 | 선택 정렬 | 017   | 내림차순으로 자릿수 정렬하기 | [BOJ](https://www.acmicpc.net/problem/1427)  |
 | 삽입 정렬 | 018   | ATM 인출 시간 계산하기  | [BOJ](https://www.acmicpc.net/problem/11399) |
 | 퀵 정렬  | 019   | K번째 수 구하기       | [BOJ](https://www.acmicpc.net/problem/11004) |
+| 병합 정렬 | 020   | 수 정렬하기 2        | [BOJ](https://www.acmicpc.net/problem/2751)  |
+| 병합 정렬 | 021   | 버블 소트 프로그램 2    | [BOJ](https://www.acmicpc.net/problem/1517)  |
+| 기수 정렬 | 022   | 수 정렬하기 3        | [BOJ](https://www.acmicpc.net/problem/10989) |
+
+</details>
+
+<details>
+<summary>탐</summary>
+
+| 분류  | 문제 번호 | 문제 이름         | 링크                                           |
+|-----|-------|---------------|----------------------------------------------|
+| DFS | 023   | 연결 요소의 개수 구하기 | [BOJ](https://www.acmicpc.net/problem/11724) |
+| DFS | 024   | 신기한 소수 찾기     | [BOJ](https://www.acmicpc.net/problem/2023)  |
+| DFS | 025   | 친구 관계 파악하기    | [BOJ](https://www.acmicpc.net/problem/13023) |
 
 </details>
 
