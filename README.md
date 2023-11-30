@@ -58,14 +58,17 @@
 <details>
 <summary>탐색</summary>
 
-| 분류  | 문제 번호 | 문제 이름         | 링크                                           |
-|-----|-------|---------------|----------------------------------------------|
-| DFS | 023   | 연결 요소의 개수 구하기 | [BOJ](https://www.acmicpc.net/problem/11724) |
-| DFS | 024   | 신기한 소수 찾기     | [BOJ](https://www.acmicpc.net/problem/2023)  |
-| DFS | 025   | 친구 관계 파악하기    | [BOJ](https://www.acmicpc.net/problem/13023) |
-| BFS | 026   | DFS와 BFS 프로그램 | [BOJ](https://www.acmicpc.net/problem/1260)  |
-| BFS | 027   | 미로 탐색하기       | [BOJ](https://www.acmicpc.net/problem/2178)  |
-| BFS | 028   | 트리의 지름 구하기    | [BOJ](https://www.acmicpc.net/problem/1167)  |
+| 분류    | 문제 번호 | 문제 이름         | 링크                                           |
+|-------|-------|---------------|----------------------------------------------|
+| DFS   | 023   | 연결 요소의 개수 구하기 | [BOJ](https://www.acmicpc.net/problem/11724) |
+| DFS   | 024   | 신기한 소수 찾기     | [BOJ](https://www.acmicpc.net/problem/2023)  |
+| DFS   | 025   | 친구 관계 파악하기    | [BOJ](https://www.acmicpc.net/problem/13023) |
+| BFS   | 026   | DFS와 BFS 프로그램 | [BOJ](https://www.acmicpc.net/problem/1260)  |
+| BFS   | 027   | 미로 탐색하기       | [BOJ](https://www.acmicpc.net/problem/2178)  |
+| BFS   | 028   | 트리의 지름 구하기    | [BOJ](https://www.acmicpc.net/problem/1167)  |
+| 이진 탐색 | 029   | 원하는 정수 찾기     | [BOJ](https://www.acmicpc.net/problem/1920)  |
+| 이진 탐색 | 030   | 블루레이 만들기      | [BOJ](https://www.acmicpc.net/problem/2343)  |
+| 이진 탐색 | 031   | 배열에서 K번째 수 찾기 | [BOJ](https://www.acmicpc.net/problem/1300)  |
 
 </details>
 
