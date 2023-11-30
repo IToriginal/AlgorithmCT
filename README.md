@@ -2,8 +2,8 @@
 
 ## Use Languages
 
-<img src="https://img.shields.io/badge/-Java-red?logo=Java&logoColor=white&style=flat-square"/></a>
-<br><br>
+<img src="https://img.shields.io/badge/-Java-red?logo=Java&logoColor=white&style=flat-square"/></a>  
+- `JDK11` 버전을 사용하고 있습니다.
 
 ## Reference Site
 
@@ -17,71 +17,73 @@
 <summary><b> 🚀 Doit! 알고리즘 코딩테스트 자바편</b></summary>
 <div>
 <blockquote>
+🔗 문제 이름의 링크를 클릭하면 문제에 해당된 작성 코드로 페이지를 이동시킵니다. <br>
+🔗 링크를 클릭하면 해당하는 문제의 백준 페이지로 이동시킵니다.
 <details>
 <summary>자료구조</summary>
 
-| 핵심 | 분류          | 문제 번호 | 문제 이름                   | 링크                                              |
-|:----:|--------------|--------|--------------------------|-------------------------------------------------|
-|      | 배열과 리스트   | 001    | 숫자의 합 구하기              | [BOJ](https://www.acmicpc.net/problem/11720)    |
-|      | 배열과 리스트 | 002    | 평균 구하기                  | [BOJ](https://www.acmicpc.net/problem/1546)    |
-|   🌟   | 구간 합 | 003    | 구간 합 구하기                | [BOJ](https://www.acmicpc.net/problem/11659)  |
-|      | 구간 합 | 004    | 구간 합 구하기2               | [BOJ](https://www.acmicpc.net/problem/11660) |
-|      | 구간 합 | 005    | 나머지 합 구하기               | [BOJ](https://www.acmicpc.net/problem/10986) |
-|      | 투 포인터 | 006    | 연속된 자연수의 합 구하기       | [BOJ](https://www.acmicpc.net/problem/2018)  |
-|      | 투 포인터 | 007    | 주몽의 명령                   | [BOJ](https://www.acmicpc.net/problem/1940)  |
-|   🌟   | 투 포인터 | 008    | '좋은 수'구하기               | [BOJ](https://www.acmicpc.net/problem/1253)  |
-|      | 슬라이딩 윈도우 | 009    | DNA 비밀번호                 | [BOJ](https://www.acmicpc.net/problem/12891) |
-|   🌟   | 슬라이딩 윈도우 | 010    | 최솟값 찾기                  | [BOJ](https://www.acmicpc.net/problem/11003) |
-|      | 스택과 큐 | 011    | 스택 수열                    | [BOJ](https://www.acmicpc.net/problem/1874)  |
-|      | 스택과 큐 | 012    | 오큰수 구하기                 | [BOJ](https://www.acmicpc.net/problem/17298) |
-|      | 스택과 큐 | 013    | 카드 게임                    | [BOJ](https://www.acmicpc.net/problem/2164)  |
-|      | 스택과 큐 | 014    | 절댓값 힙 구현하기              | [BOJ](https://www.acmicpc.net/problem/11286) |        
+| 핵심 | 분류       | 문제 번호 | 문제 이름                                                                                                                                                                                                                                                       | 링크                                           |
+|:--:|----------|-------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|
+|    | 배열과 리스트  | 001   | [숫자의 합 구하기](https://github.com/IToriginal/AlgorithmCT/blob/main/src/baekjoon/doit/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/_001_%EC%88%AB%EC%9E%90%EC%9D%98_%ED%95%A9_%EA%B5%AC%ED%95%98%EA%B8%B0/Main.java)                                                    | [BOJ](https://www.acmicpc.net/problem/11720) |
+|    | 배열과 리스트  | 002   | [평균 구하기](https://github.com/IToriginal/AlgorithmCT/blob/main/src/baekjoon/doit/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/_002_%ED%8F%89%EA%B7%A0_%EA%B5%AC%ED%95%98%EA%B8%B0/Main.java)                                                                          | [BOJ](https://www.acmicpc.net/problem/1546)  |
+| 🌟 | 구간 합     | 003   | [구간 합 구하기](https://github.com/IToriginal/AlgorithmCT/blob/main/src/baekjoon/doit/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/_003_%EA%B5%AC%EA%B0%84_%ED%95%A9_%EA%B5%AC%ED%95%98%EA%B8%B0/Main.java)                                                              | [BOJ](https://www.acmicpc.net/problem/11659) |
+|    | 구간 합     | 004   | [구간 합 구하기2](https://github.com/IToriginal/AlgorithmCT/blob/main/src/baekjoon/doit/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/_004_%EA%B5%AC%EA%B0%84_%ED%95%A9_%EA%B5%AC%ED%95%98%EA%B8%B0_2/Main.java)                                                           | [BOJ](https://www.acmicpc.net/problem/11660) |
+|    | 구간 합     | 005   | 나머지 합 구하기                                                                                                                                                                                                                                                   | [BOJ](https://www.acmicpc.net/problem/10986) |
+|    | 투 포인터    | 006   | [연속된 자연수의 합 구하기](https://github.com/IToriginal/AlgorithmCT/blob/main/src/baekjoon/doit/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/_006_%EC%97%B0%EC%86%8D%EB%90%9C_%EC%9E%90%EC%97%B0%EC%88%98%EC%9D%98_%ED%95%A9_%EA%B5%AC%ED%95%98%EA%B8%B0/Main.java)          | [BOJ](https://www.acmicpc.net/problem/2018)  |
+|    | 투 포인터    | 007   | [주몽의 명령](https://github.com/IToriginal/AlgorithmCT/blob/main/src/baekjoon/doit/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/_007_%EC%A3%BC%EB%AA%BD%EC%9D%98_%EB%AA%85%EB%A0%B9/Main.java)                                                                          | [BOJ](https://www.acmicpc.net/problem/1940)  |
+| 🌟 | 투 포인터    | 008   | ['좋은 수'구하기](https://github.com/IToriginal/AlgorithmCT/blob/main/src/baekjoon/doit/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/_008_%EC%A2%8B%EC%9D%80%EC%88%98_%EA%B5%AC%ED%95%98%EA%B8%B0/Main.java)                                                              | [BOJ](https://www.acmicpc.net/problem/1253)  |
+|    | 슬라이딩 윈도우 | 009   | [DNA 비밀번호](https://github.com/IToriginal/AlgorithmCT/blob/main/src/baekjoon/doit/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/_009_DNA_%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8/Main.java)                                                                              | [BOJ](https://www.acmicpc.net/problem/12891) |
+| 🌟 | 슬라이딩 윈도우 | 010   | [최솟값 찾기](https://github.com/IToriginal/AlgorithmCT/blob/main/src/baekjoon/doit/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/_010_%EC%B5%9C%EC%86%9F%EA%B0%92_%EC%B0%BE%EA%B8%B0/Main.java)                                                                          | [BOJ](https://www.acmicpc.net/problem/11003) |
+|    | 스택과 큐    | 011   | [스택 수열](https://github.com/IToriginal/AlgorithmCT/blob/main/src/baekjoon/doit/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/_011_%EC%8A%A4%ED%83%9D%EC%9C%BC%EB%A1%9C_%EC%98%A4%EB%A6%84%EC%B0%A8%EC%88%9C_%EC%88%98%EC%97%B4_%EB%A7%8C%EB%93%A4%EA%B8%B0/Main.java) | [BOJ](https://www.acmicpc.net/problem/1874)  |
+|    | 스택과 큐    | 012   | [오큰수 구하기](https://github.com/IToriginal/AlgorithmCT/blob/main/src/baekjoon/doit/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/_012_%EC%98%A4%ED%81%B0%EC%88%98_%EA%B5%AC%ED%95%98%EA%B8%B0/Main.java)                                                                | [BOJ](https://www.acmicpc.net/problem/17298) |
+|    | 스택과 큐    | 013   | [카드 게임](https://github.com/IToriginal/AlgorithmCT/blob/main/src/baekjoon/doit/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/_013_%EC%B9%B4%EB%93%9C%EA%B2%8C%EC%9E%84/Main.java)                                                                                     | [BOJ](https://www.acmicpc.net/problem/2164)  |
+|    | 스택과 큐    | 014   | [절댓값 힙 구현하기](https://github.com/IToriginal/AlgorithmCT/blob/main/src/baekjoon/doit/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/_014_%EC%A0%88%EB%8C%93%EA%B0%92_%ED%9E%99_%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0/Main.java)                                          | [BOJ](https://www.acmicpc.net/problem/11286) |        
 
 </details>
 
 <details>
 <summary>정렬</summary>
 
-| 핵심 | 분류    | 문제 번호 | 문제 이름           | 링크                                           |
-|:----:|-------|-------|-----------------|----------------------------------------------|
-|   🌟   | 버블 정렬 | 015   | 수 정렬하기 1        | [BOJ](https://www.acmicpc.net/problem/2750)  |
-|      | 버블 정렬 | 016   | 버블 소트 프로그램 1    | [BOJ](https://www.acmicpc.net/problem/1377)  |
-|      | 선택 정렬 | 017   | 내림차순으로 자릿수 정렬하기 | [BOJ](https://www.acmicpc.net/problem/1427)  |
-|      | 삽입 정렬 | 018   | ATM 인출 시간 계산하기  | [BOJ](https://www.acmicpc.net/problem/11399) |
-|      | 퀵 정렬  | 019   | K번째 수 구하기       | [BOJ](https://www.acmicpc.net/problem/11004) |
-|      | 병합 정렬 | 020   | 수 정렬하기 2        | [BOJ](https://www.acmicpc.net/problem/2751)  |
-|      | 병합 정렬 | 021   | 버블 소트 프로그램 2    | [BOJ](https://www.acmicpc.net/problem/1517)  |
-|      | 기수 정렬 | 022   | 수 정렬하기 3        | [BOJ](https://www.acmicpc.net/problem/10989) |
+| 핵심 | 분류    | 문제 번호 | 문제 이름                                                                                                                                                                                                                                              | 링크                                           |
+|:--:|-------|-------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|
+| 🌟 | 버블 정렬 | 015   | [수 정렬하기 1](https://github.com/IToriginal/AlgorithmCT/blob/main/src/baekjoon/doit/%EC%A0%95%EB%A0%AC/_015_%EC%88%98_%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0_1/Main.java)                                                                               | [BOJ](https://www.acmicpc.net/problem/2750)  |
+|    | 버블 정렬 | 016   | [버블 소트 프로그램 1](https://github.com/IToriginal/AlgorithmCT/blob/main/src/baekjoon/doit/%EC%A0%95%EB%A0%AC/_016_%EB%B2%84%EB%B8%94_%EC%86%8C%ED%8A%B8_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8_1/Main.java)                                               | [BOJ](https://www.acmicpc.net/problem/1377)  |
+|    | 선택 정렬 | 017   | [내림차순으로 자릿수 정렬하기](https://github.com/IToriginal/AlgorithmCT/blob/main/src/baekjoon/doit/%EC%A0%95%EB%A0%AC/_017_%EB%82%B4%EB%A6%BC%EC%B0%A8%EC%88%9C%EC%9C%BC%EB%A1%9C_%EC%9E%90%EB%A6%BF%EC%88%98_%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0/Main.java) | [BOJ](https://www.acmicpc.net/problem/1427)  |
+|    | 삽입 정렬 | 018   | [ATM 인출 시간 계산하기](https://github.com/IToriginal/AlgorithmCT/blob/main/src/baekjoon/doit/%EC%A0%95%EB%A0%AC/_018_ATM/Main.java)                                                                                                                      | [BOJ](https://www.acmicpc.net/problem/11399) |
+|    | 퀵 정렬  | 019   | [K번째 수 구하기](https://github.com/IToriginal/AlgorithmCT/blob/main/src/baekjoon/doit/%EC%A0%95%EB%A0%AC/_019_K%EB%B2%88%EC%A7%B8_%EC%88%98/Main.java)                                                                                                 | [BOJ](https://www.acmicpc.net/problem/11004) |
+|    | 병합 정렬 | 020   | 수 정렬하기 2                                                                                                                                                                                                                                           | [BOJ](https://www.acmicpc.net/problem/2751)  |
+|    | 병합 정렬 | 021   | 버블 소트 프로그램 2                                                                                                                                                                                                                                       | [BOJ](https://www.acmicpc.net/problem/1517)  |
+|    | 기수 정렬 | 022   | 수 정렬하기 3                                                                                                                                                                                                                                           | [BOJ](https://www.acmicpc.net/problem/10989) |
 
 </details>
 
 <details>
 <summary>탐색</summary>
 
-| 핵심 | 분류    | 문제 번호 | 문제 이름         | 링크                                           |
-|:----:|-------|-------|---------------|----------------------------------------------|
-|   🌟   | DFS   | 023   | 연결 요소의 개수 구하기 | [BOJ](https://www.acmicpc.net/problem/11724) |
-|      | DFS   | 024   | 신기한 소수 찾기     | [BOJ](https://www.acmicpc.net/problem/2023)  |
-|      | DFS   | 025   | 친구 관계 파악하기    | [BOJ](https://www.acmicpc.net/problem/13023) |
-|   🌟   | BFS   | 026   | DFS와 BFS 프로그램 | [BOJ](https://www.acmicpc.net/problem/1260)  |
-|      | BFS   | 027   | 미로 탐색하기       | [BOJ](https://www.acmicpc.net/problem/2178)  |
-|      | BFS   | 028   | 트리의 지름 구하기    | [BOJ](https://www.acmicpc.net/problem/1167)  |
-|  🌟    | 이진 탐색 | 029   | 원하는 정수 찾기     | [BOJ](https://www.acmicpc.net/problem/1920)  |
-|      | 이진 탐색 | 030   | 블루레이 만들기      | [BOJ](https://www.acmicpc.net/problem/2343)  |
-|      | 이진 탐색 | 031   | 배열에서 K번째 수 찾기 | [BOJ](https://www.acmicpc.net/problem/1300)  |
+| 핵심 | 분류    | 문제 번호 | 문제 이름                                                                                                                                                                                                                 | 링크                                           |
+|:--:|-------|-------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|
+| 🌟 | DFS   | 023   | [연결 요소의 개수 구하기](https://github.com/IToriginal/AlgorithmCT/blob/main/src/baekjoon/doit/%ED%83%90%EC%83%89/_023_%EC%97%B0%EA%B2%B0%EC%9A%94%EC%86%8C%EC%9D%98_%EA%B0%9C%EC%88%98_%EA%B5%AC%ED%95%98%EA%B8%B0/Main.java) | [BOJ](https://www.acmicpc.net/problem/11724) |
+|    | DFS   | 024   | [신기한 소수 찾기](https://github.com/IToriginal/AlgorithmCT/blob/main/src/baekjoon/doit/%ED%83%90%EC%83%89/_024_%EC%8B%A0%EA%B8%B0%ED%95%9C_%EC%86%8C%EC%88%98_%EC%B0%BE%EA%B8%B0/Main.java)                                | [BOJ](https://www.acmicpc.net/problem/2023)  |
+|    | DFS   | 025   | [친구 관계 파악하기](https://github.com/IToriginal/AlgorithmCT/blob/main/src/baekjoon/doit/%ED%83%90%EC%83%89/_025_%EC%B9%9C%EA%B5%AC_%EA%B4%80%EA%B3%84_%ED%8C%8C%EC%95%85%ED%95%98%EA%B8%B0/Main.java)                      | [BOJ](https://www.acmicpc.net/problem/13023) |
+| 🌟 | BFS   | 026   | [DFS와 BFS 프로그램](https://github.com/IToriginal/AlgorithmCT/blob/main/src/baekjoon/doit/%ED%83%90%EC%83%89/_026_DFS_BFS_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8/Main.java)                                                 | [BOJ](https://www.acmicpc.net/problem/1260)  |
+|    | BFS   | 027   | [미로 탐색하기](https://github.com/IToriginal/AlgorithmCT/blob/main/src/baekjoon/doit/%ED%83%90%EC%83%89/_027_%EB%AF%B8%EB%A1%9C_%ED%83%90%EC%83%89/Main.java)                                                              | [BOJ](https://www.acmicpc.net/problem/2178)  |
+|    | BFS   | 028   | 트리의 지름 구하기                                                                                                                                                                                                            | [BOJ](https://www.acmicpc.net/problem/1167)  |
+| 🌟 | 이진 탐색 | 029   | [원하는 정수 찾기](https://github.com/IToriginal/AlgorithmCT/blob/main/src/baekjoon/doit/%ED%83%90%EC%83%89/_029_%EC%88%98_%EC%B0%BE%EA%B8%B0/Main.java)                                                                     | [BOJ](https://www.acmicpc.net/problem/1920)  |
+|    | 이진 탐색 | 030   | [블루레이 만들기](https://github.com/IToriginal/AlgorithmCT/blob/main/src/baekjoon/doit/%ED%83%90%EC%83%89/_030_%EA%B8%B0%ED%83%80_%EB%A0%88%EC%8A%A8/Main.java)                                                             | [BOJ](https://www.acmicpc.net/problem/2343)  |
+|    | 이진 탐색 | 031   | [배열에서 K번째 수 찾기](https://github.com/IToriginal/AlgorithmCT/blob/main/src/baekjoon/doit/%ED%83%90%EC%83%89/_031_K%EB%B2%88%EC%A7%B8_%EC%88%98/Main.java)                                                                | [BOJ](https://www.acmicpc.net/problem/1300)  |
 
 </details>
 
 <details>
 <summary>그리디</summary>
 
-| 핵심 | 분류  | 문제 번호 | 문제 이름             | 링크                                           |
-|:----:|-----|-------|-------------------|----------------------------------------------|
-|      | 그리디 | 032   | 동전 개수의 최솟값 구하기    | [BOJ](https://www.acmicpc.net/problem/11047) |
-|      | 그리디 | 033   | 카드 정렬하기           | [BOJ](https://www.acmicpc.net/problem/1715)  |
-|      | 그리디 | 034   | 수를 묶어서 최댓값 만들기    | [BOJ](https://www.acmicpc.net/problem/1744)  |
-|      | 그리디 | 035   | 회의실 배정하기          | [BOJ](https://www.acmicpc.net/problem/1931)  |
-|   🌟   | 그리디 | 036   | 최솟값을 만드는 괄호 배치 찾기 | [BOJ](https://www.acmicpc.net/problem/1541)  |
+| 핵심 | 분류  | 문제 번호 | 문제 이름                                                                                                                                                                               | 링크                                           |
+|:--:|-----|-------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|
+|    | 그리디 | 032   | [동전 개수의 최솟값 구하기](https://github.com/IToriginal/AlgorithmCT/blob/main/src/baekjoon/doit/%EA%B7%B8%EB%A6%AC%EB%94%94/_032_%EB%8F%99%EC%A0%84_0/Main.java)                             | [BOJ](https://www.acmicpc.net/problem/11047) |
+|    | 그리디 | 033   | [카드 정렬하기](https://github.com/IToriginal/AlgorithmCT/blob/main/src/baekjoon/doit/%EA%B7%B8%EB%A6%AC%EB%94%94/_033_%EC%B9%B4%EB%93%9C_%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0/Main.java) | [BOJ](https://www.acmicpc.net/problem/1715)  |
+|    | 그리디 | 034   | [수를 묶어서 최댓값 만들기](https://github.com/IToriginal/AlgorithmCT/blob/main/src/baekjoon/doit/%EA%B7%B8%EB%A6%AC%EB%94%94/_034_%EC%88%98_%EB%AC%B6%EA%B8%B0/Main.java)                     | [BOJ](https://www.acmicpc.net/problem/1744)  |
+|    | 그리디 | 035   | 회의실 배정하기                                                                                                                                                                            | [BOJ](https://www.acmicpc.net/problem/1931)  |
+| 🌟 | 그리디 | 036   | 최솟값을 만드는 괄호 배치 찾기                                                                                                                                                                   | [BOJ](https://www.acmicpc.net/problem/1541)  |
 
 </details>
 
