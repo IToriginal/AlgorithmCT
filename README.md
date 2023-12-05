@@ -135,3 +135,31 @@
 </blockquote>
 </div>
 </details>
+
+<details>
+<summary><b> 🚀 자바(Java) 알고리즘 문제풀이 입문: 코딩테스트 대비</b></summary>
+<div>
+<blockquote>
+<a href='https://www.inflearn.com/course/%EC%9E%90%EB%B0%94-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4-%EC%BD%94%ED%85%8C%EB%8C%80%EB%B9%84/dashboard'> 🔗 인프런 기초 문제 (유료) </a><br>
+<details>
+<summary>String</summary>
+
+| No | 문제 이름       |
+|:--:|-------------|
+| 1  | 문자 찾기       |
+| 2  | 대소문자 변환     |
+| 3  | 문장 속 단어     |
+| 4  | 단어 뒤집기      |
+| 5  | 특정문자 뒤집기    |
+| 6  | 중복 문자 제거    |
+| 7  | 회문 문자열      |
+| 8  | 유효한 팰린드롬    |
+| 9  | 숫자만 추출      |
+| 10 | 가장 짧은 문자 거리 |
+| 11 | 문자열 압축      |
+| 12 | 암호          |
+
+</details>
+</blockquote>
+</div>
+</details>
