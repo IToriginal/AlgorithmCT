@@ -144,22 +144,43 @@
 <details>
 <summary>String</summary>
 
-| No | 문제 이름       |
-|:--:|-------------|
-| 1  | 문자 찾기       |
-| 2  | 대소문자 변환     |
-| 3  | 문장 속 단어     |
-| 4  | 단어 뒤집기      |
-| 5  | 특정문자 뒤집기    |
-| 6  | 중복 문자 제거    |
-| 7  | 회문 문자열      |
-| 8  | 유효한 팰린드롬    |
-| 9  | 숫자만 추출      |
-| 10 | 가장 짧은 문자 거리 |
-| 11 | 문자열 압축      |
-| 12 | 암호          |
+| No | 문제 이름                                                                                                                                                                                                |
+|:--:|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1  | [문자 찾기](https://github.com/IToriginal/AlgorithmCT/blob/main/src/inflearn/%EA%B8%B0%EB%B3%B8/_01_String/_01_%EB%AC%B8%EC%9E%90%EC%B0%BE%EA%B8%B0/Main.java)                                           |
+| 2  | [대소문자 변환](https://github.com/IToriginal/AlgorithmCT/blob/main/src/inflearn/%EA%B8%B0%EB%B3%B8/_01_String/_02_%EB%8C%80%EC%86%8C%EB%AC%B8%EC%9E%90%EB%B3%80%ED%99%98/Main.java)                       |
+| 3  | [문장 속 단어](https://github.com/IToriginal/AlgorithmCT/blob/main/src/inflearn/%EA%B8%B0%EB%B3%B8/_01_String/_03_%EB%AC%B8%EC%9E%A5%EC%86%8D%EB%8B%A8%EC%96%B4/Main.java)                                |
+| 4  | [단어 뒤집기](https://github.com/IToriginal/AlgorithmCT/blob/main/src/inflearn/%EA%B8%B0%EB%B3%B8/_01_String/_04_%EB%8B%A8%EC%96%B4%EB%92%A4%EC%A7%91%EA%B8%B0/Main.java)                                 |
+| 5  | [특정문자 뒤집기](https://github.com/IToriginal/AlgorithmCT/blob/main/src/inflearn/%EA%B8%B0%EB%B3%B8/_01_String/_05_%ED%8A%B9%EC%A0%95%EB%AC%B8%EC%9E%90%EB%92%A4%EC%A7%91%EA%B8%B0/Main.java)             |
+| 6  | [중복 문자 제거](https://github.com/IToriginal/AlgorithmCT/blob/main/src/inflearn/%EA%B8%B0%EB%B3%B8/_01_String/_06_%EC%A4%91%EB%B3%B5%EB%AC%B8%EC%9E%90%EC%A0%9C%EA%B1%B0/Main.java)                      |
+| 7  | [회문 문자열](https://github.com/IToriginal/AlgorithmCT/blob/main/src/inflearn/%EA%B8%B0%EB%B3%B8/_01_String/_07_%ED%9A%8C%EB%AC%B8%EB%AC%B8%EC%9E%90%EC%97%B4/Main.java)                                 |
+| 8  | [유효한 팰린드롬](https://github.com/IToriginal/AlgorithmCT/blob/main/src/inflearn/%EA%B8%B0%EB%B3%B8/_01_String/_08_%EC%9C%A0%ED%9A%A8%ED%95%9C%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC/Main.java)             |
+| 9  | [숫자만 추출](https://github.com/IToriginal/AlgorithmCT/blob/main/src/inflearn/%EA%B8%B0%EB%B3%B8/_01_String/_09_%EC%88%AB%EC%9E%90%EB%A7%8C%EC%B6%94%EC%B6%9C/Main.java)                                 |
+| 10 | [가장 짧은 문자 거리](https://github.com/IToriginal/AlgorithmCT/blob/main/src/inflearn/%EA%B8%B0%EB%B3%B8/_01_String/_10_%EA%B0%80%EC%9E%A5%EC%A7%A7%EC%9D%80%EB%AC%B8%EC%9E%90%EA%B1%B0%EB%A6%AC/Main.java) |
+| 11 | [문자열 압축](https://github.com/IToriginal/AlgorithmCT/blob/main/src/inflearn/%EA%B8%B0%EB%B3%B8/_01_String/_11_%EB%AC%B8%EC%9E%90%EC%97%B4%EC%95%95%EC%B6%95/Main.java)                                 |
+| 12 | [암호](https://github.com/IToriginal/AlgorithmCT/blob/main/src/inflearn/%EA%B8%B0%EB%B3%B8/_01_String/_12_%EC%95%94%ED%98%B8/Main.java)                                                                |
 
 </details>
+
+<details>
+<summary>Array(1, 2차원 배열)</summary>
+
+| No | 문제 이름         |
+|:--:|---------------|
+| 1  | 큰 수 출력하기      |
+| 2  | 보이는 학생        |
+| 3  | 가위바위보         |
+| 4  | 피보나치 수열       |
+| 5  | 소수(에라토스테네스 체) |
+| 6  | 뒤집은 소수        |
+| 7  | 점수 계산         |
+| 8  | 등수 구하기        |
+| 9  | 격자판 최대합       |
+| 10 | 봉우리           |
+| 11 | 임시반장 정하기      |
+| 12 | 멘토링           |
+
+</details>
+
 </blockquote>
 </div>
 </details>
