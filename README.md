@@ -164,20 +164,34 @@
 <details>
 <summary>Array(1, 2차원 배열)</summary>
 
-| No | 문제 이름         |
-|:--:|---------------|
-| 1  | 큰 수 출력하기      |
-| 2  | 보이는 학생        |
-| 3  | 가위바위보         |
-| 4  | 피보나치 수열       |
-| 5  | 소수(에라토스테네스 체) |
-| 6  | 뒤집은 소수        |
-| 7  | 점수 계산         |
-| 8  | 등수 구하기        |
-| 9  | 격자판 최대합       |
-| 10 | 봉우리           |
-| 11 | 임시반장 정하기      |
-| 12 | 멘토링           |
+| No | 문제 이름                                                                                                                                                                                                                    |
+|:--:|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1  | [큰 수 출력하기](https://github.com/IToriginal/AlgorithmCT/blob/main/src/inflearn/%EA%B8%B0%EB%B3%B8/_02_Array/_01_%ED%81%B0%EC%88%98%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0/Main.java)                                           |
+| 2  | [보이는 학생](https://github.com/IToriginal/AlgorithmCT/tree/main/src/inflearn/%EA%B8%B0%EB%B3%B8/_02_Array/_02_%EB%B3%B4%EC%9D%B4%EB%8A%94%ED%95%99%EC%83%9D)                                                                |
+| 3  | [가위바위보](https://github.com/IToriginal/AlgorithmCT/blob/main/src/inflearn/%EA%B8%B0%EB%B3%B8/_02_Array/_03_%EA%B0%80%EC%9C%84%EB%B0%94%EC%9C%84%EB%B3%B4/Main.java)                                                       |
+| 4  | [피보나치 수열](https://github.com/IToriginal/AlgorithmCT/blob/main/src/inflearn/%EA%B8%B0%EB%B3%B8/_02_Array/_04_%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%EC%88%98%EC%97%B4/Main.java)                                            |
+| 5  | [소수(에라토스테네스 체)](https://github.com/IToriginal/AlgorithmCT/blob/main/src/inflearn/%EA%B8%B0%EB%B3%B8/_02_Array/_05_%EC%86%8C%EC%88%98_%EC%97%90%EB%9D%BC%ED%86%A0%EC%8A%A4%ED%85%8C%EB%84%A4%EC%8A%A4%EC%B2%B4/Main.java) |
+| 6  | [뒤집은 소수](https://github.com/IToriginal/AlgorithmCT/blob/main/src/inflearn/%EA%B8%B0%EB%B3%B8/_02_Array/_06_%EB%92%A4%EC%A7%91%EC%9D%80%EC%86%8C%EC%88%98/Main.java)                                                      |
+| 7  | [점수 계산](https://github.com/IToriginal/AlgorithmCT/blob/main/src/inflearn/%EA%B8%B0%EB%B3%B8/_02_Array/_07_%EC%A0%90%EC%88%98%EA%B3%84%EC%82%B0/Main.java)                                                                |
+| 8  | [등수 구하기](https://github.com/IToriginal/AlgorithmCT/blob/main/src/inflearn/%EA%B8%B0%EB%B3%B8/_02_Array/_08_%EB%93%B1%EC%88%98%EA%B5%AC%ED%95%98%EA%B8%B0/Main.java)                                                      |
+| 9  | [격자판 최대합](https://github.com/IToriginal/AlgorithmCT/blob/main/src/inflearn/%EA%B8%B0%EB%B3%B8/_02_Array/_09_%EA%B2%A9%EC%9E%90%ED%8C%90%EC%B5%9C%EB%8C%80%ED%95%A9/Main.java)                                            |
+| 10 | [봉우리](https://github.com/IToriginal/AlgorithmCT/blob/main/src/inflearn/%EA%B8%B0%EB%B3%B8/_02_Array/_10_%EB%B4%89%EC%9A%B0%EB%A6%AC/Main.java)                                                                           |
+| 11 | [임시반장 정하기](https://github.com/IToriginal/AlgorithmCT/blob/main/src/inflearn/%EA%B8%B0%EB%B3%B8/_02_Array/_11_%EC%9E%84%EC%8B%9C%EB%B0%98%EC%9E%A5%EC%A0%95%ED%95%98%EA%B8%B0/Main.java)                                  |
+| 12 | [멘토링](https://github.com/IToriginal/AlgorithmCT/blob/main/src/inflearn/%EA%B8%B0%EB%B3%B8/_02_Array/_12_%EB%A9%98%ED%86%A0%EB%A7%81_/Main.java)                                                                          |
+
+</details>
+
+<details>
+<summary>Tow pointers, Sliding window, Math</summary>
+
+| No | 문제 이름          |
+|:--:|----------------|
+| 1  | 두 배열 합치기       |
+| 2  | 공통원소 구하기       |
+| 3  | 최대 매출          |
+| 4  | 연속 부분 수열       |
+| 5  | 연속된 자연수의 합     |
+| 6  | 최대 길이 연속 부분 수열 |
 
 </details>
 
