@@ -184,16 +184,30 @@
 <details>
 <summary>Tow pointers, Sliding window, Math</summary>
 
-| No | 문제 이름          |
-|:--:|----------------|
-| 1  | 두 배열 합치기       |
-| 2  | 공통원소 구하기       |
-| 3  | 최대 매출          |
-| 4  | 연속 부분 수열       |
-| 5  | 연속된 자연수의 합     |
-| 6  | 최대 길이 연속 부분 수열 |
+| No | 문제 이름                                                                                                                                                                                                                                             |
+|:--:|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1  | [두 배열 합치기](https://github.com/IToriginal/AlgorithmCT/blob/main/src/inflearn/%EA%B8%B0%EB%B3%B8/_03_TwoPointers_SlidingWindow_Math/_01_%EB%91%90%EB%B0%B0%EC%97%B4%ED%95%A9%EC%B9%98%EA%B8%B0/Main.java)                                           |
+| 2  | [공통원소 구하기](https://github.com/IToriginal/AlgorithmCT/blob/main/src/inflearn/%EA%B8%B0%EB%B3%B8/_03_TwoPointers_SlidingWindow_Math/_02_%EA%B3%B5%ED%86%B5%EC%9B%90%EC%86%8C%EA%B5%AC%ED%95%98%EA%B8%B0/Main.java)                                  |
+| 3  | [최대 매출](https://github.com/IToriginal/AlgorithmCT/blob/main/src/inflearn/%EA%B8%B0%EB%B3%B8/_03_TwoPointers_SlidingWindow_Math/_03_%EC%B5%9C%EB%8C%80%EB%A7%A4%EC%B6%9C/Main.java)                                                                |
+| 4  | [연속 부분 수열](https://github.com/IToriginal/AlgorithmCT/blob/main/src/inflearn/%EA%B8%B0%EB%B3%B8/_03_TwoPointers_SlidingWindow_Math/_04_%EC%97%B0%EC%86%8D%EB%B6%80%EB%B6%84%EC%88%98%EC%97%B4/Main.java)                                           |
+| 5  | [연속된 자연수의 합](https://github.com/IToriginal/AlgorithmCT/blob/main/src/inflearn/%EA%B8%B0%EB%B3%B8/_03_TwoPointers_SlidingWindow_Math/_05_%EC%97%B0%EC%86%8D%EB%90%9C%EC%9E%90%EC%97%B0%EC%88%98%EC%9D%98%ED%95%A9/Main.java)                       |
+| 6  | [최대 길이 연속 부분 수열](https://github.com/IToriginal/AlgorithmCT/blob/main/src/inflearn/%EA%B8%B0%EB%B3%B8/_03_TwoPointers_SlidingWindow_Math/_06_%EC%B5%9C%EB%8C%80%EA%B8%B8%EC%9D%B4%EC%97%B0%EC%86%8D%EB%B6%80%EB%B6%84%EC%88%98%EC%97%B4/Main.java) |
 
 </details>
+
+<details>
+<summary>HashMap, TreeSet</summary>
+
+| No | 문제 이름      |
+|:--:|------------|
+| 1  | 학습 회장      |
+| 2  | 아나그램       |
+| 3  | 매출액의 종류    |
+| 4  | 모든 아나그램 찾기 |
+| 5  | K번째 큰 수    |
+
+</details>
+
 
 </blockquote>
 </div>
