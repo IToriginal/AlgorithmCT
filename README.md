@@ -220,7 +220,7 @@
 |  번호  |        주제        |                                              진행도                                               |
 |:----:|:----------------:|:----------------------------------------------------------------------------------------------:|
 | 0x05 |        스택        |  ![100%](https://progress-bar.dev/6/?scale=8&title=progress&width=500&color=babaca&suffix=/8)  |
-| 0x06 |        큐         |  ![100%](https://progress-bar.dev/0/?scale=3&title=progress&width=500&color=babaca&suffix=/3)  |
+| 0x06 |        큐         |  ![100%](https://progress-bar.dev/1/?scale=3&title=progress&width=500&color=babaca&suffix=/3)  |
 | 0x07 |        덱         |  ![100%](https://progress-bar.dev/0/?scale=4&title=progress&width=500&color=babaca&suffix=/4)  |
 | 0x08 | 스택의 활용(수식의 괄호 쌍) |  ![100%](https://progress-bar.dev/0/?scale=5&title=progress&width=500&color=babaca&suffix=/5)  |
 | 0x09 |       BFS        | ![100%](https://progress-bar.dev/0/?scale=30&title=progress&width=500&color=babaca&suffix=/30) |
