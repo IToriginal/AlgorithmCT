@@ -11,6 +11,8 @@
 📝 [소프티어(Softeer)](https://softeer.ai/practice) </br>
 📝 [인프런 - 알고리즘 기초](https://www.inflearn.com/course/%EC%9E%90%EB%B0%94-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4-%EC%BD%94%ED%85%8C%EB%8C%80%EB%B9%84/dashboard) </br>
 📝 [인프런 - 알고리즘 응용](https://www.inflearn.com/course/%EC%9E%90%EB%B0%94-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%B5%9C%EC%8B%A0%EA%B8%B0%EC%B6%9C/dashboard) </br>
+📝 [바킹독 - 실전 알고리즘](https://github.com/encrypted-def/basic-algo-lecture/tree/master) </br>
+📝 [리트코드(LeetCode)](https://leetcode.com/problemset/)
 
 
 <details>
@@ -237,6 +239,28 @@
 | 0x15 |        해시        | ![100%](https://progress-bar.dev/0/?scale=10&title=progress&width=500&color=babaca&suffix=/10) |
 | 0x16 |     이진 검색 트리     |  ![100%](https://progress-bar.dev/0/?scale=7&title=progress&width=500&color=babaca&suffix=/7)  |
 | 0x17 |      우선순위 큐      |  ![100%](https://progress-bar.dev/0/?scale=8&title=progress&width=500&color=babaca&suffix=/8)  |
+</blockquote>
+</div>
+</details>
+
+<details><summary><b> 🚀 LeetCode </b></summary>
+<div>
+<h3> Array </h3>
+<blockquote>
+
+|  번호  |                        주제                         | 난이도 |
+|:----:|:-------------------------------------------------:|:---:|
+| 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | `easy`|
+
+</blockquote>
+
+<h3> Linked List </h3>
+<blockquote>
+
+|  번호  |                                     주제                                      | 난이도 |
+|:----:|:---------------------------------------------------------------------------:|:---:|
+| 0206 | [Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list/) | `easy`|
+
 </blockquote>
 </div>
 </details>
