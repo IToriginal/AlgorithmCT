@@ -1,4 +1,4 @@
-package baa_kingDog.stack._04_옥상_정원_꾸미기; // BOJ6198 - G5
+package baa_kingDog.stack._6198_옥상_정원_꾸미기; // BOJ6198 - G5
 
 import java.io.BufferedReader;
 import java.io.IOException;

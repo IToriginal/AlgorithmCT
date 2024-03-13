@@ -1,4 +1,4 @@
-package baa_kingDog.stack._02_스택_수열;
+package baa_kingDog.stack._1874_스택_수열;
 
 import java.io.BufferedReader;
 import java.io.IOException;

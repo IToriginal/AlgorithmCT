@@ -1,4 +1,4 @@
-package baa_kingDog.stack._01_제로; // BOJ10773 - S4
+package baa_kingDog.stack._10773_제로; // BOJ10773 - S4
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package baa_kingDog.stack._00_스택;
+package baa_kingDog.stack._10828_스택;
 
 import java.io.*;
 import java.util.*;

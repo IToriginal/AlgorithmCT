@@ -1,4 +1,4 @@
-package baa_kingDog.stack._05_오큰수; // BOJ17298 - G4
+package baa_kingDog.stack._17298_오큰수; // BOJ17298 - G4
 
 import java.io.BufferedReader;
 import java.io.IOException;

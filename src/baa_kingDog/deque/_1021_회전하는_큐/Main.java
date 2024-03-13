@@ -1,4 +1,4 @@
-package baa_kingDog.deque._02_회전하는_큐; // BOJ1021 - S3
+package baa_kingDog.deque._1021_회전하는_큐; // BOJ1021 - S3
 
 import java.io.BufferedReader;
 import java.io.IOException;

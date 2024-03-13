@@ -1,4 +1,4 @@
-package baa_kingDog.queue._03_카드_2;
+package baa_kingDog.queue._2164_카드2;
 
 import java.io.BufferedReader;
 import java.io.IOException;

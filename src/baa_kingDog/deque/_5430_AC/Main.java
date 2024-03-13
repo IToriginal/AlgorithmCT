@@ -1,4 +1,4 @@
-package baa_kingDog.deque._03_AC; // BOJ5430 - G5
+package baa_kingDog.deque._5430_AC; // BOJ5430 - G5
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package baa_kingDog.stack._03_탑; // BOJ2493 - G5
+package baa_kingDog.stack._2493_탑; // BOJ2493 - G5
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package baa_kingDog.deque._01_덱;
+package baa_kingDog.deque._10866_덱;
 
 import java.io.BufferedReader;
 import java.io.IOException;
