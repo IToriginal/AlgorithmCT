@@ -27,7 +27,7 @@
 | 0x07 |   [덱](src/baa_kingDog/deque/README.md)    |  ![100%](https://progress-bar.dev/3/?scale=4&title=progress&width=500&color=babaca&suffix=/4)  |
 | 0x08 |             스택의 활용(수식의 괄호 쌍)              |  ![100%](https://progress-bar.dev/0/?scale=5&title=progress&width=500&color=babaca&suffix=/5)  |
 | 0x09 |   [BFS](src/baa_kingDog/bfs/README.md)    | ![100%](https://progress-bar.dev/4/?scale=30&title=progress&width=500&color=babaca&suffix=/30) |
-| 0x0B | [재귀](src/baa_kingDog/recursion/README.md) | ![100%](https://progress-bar.dev/1/?scale=10&title=progress&width=500&color=babaca&suffix=/10) |
+| 0x0B | [재귀](src/baa_kingDog/recursion/README.md) | ![100%](https://progress-bar.dev/2/?scale=10&title=progress&width=500&color=babaca&suffix=/10) |
 | 0x0C |                   백트래킹                    | ![100%](https://progress-bar.dev/0/?scale=20&title=progress&width=500&color=babaca&suffix=/20) |
 | 0x0D |                   시뮬레이션                   | ![100%](https://progress-bar.dev/0/?scale=61&title=progress&width=500&color=babaca&suffix=/61) |
 | 0x0E |                   정렬 I                    |  ![100%](https://progress-bar.dev/0/?scale=8&title=progress&width=500&color=babaca&suffix=/8)  |
