@@ -1,15 +1,15 @@
 # 다이나믹 프로그래밍
 
-![100%](https://progress-bar.dev/4/?scale=44&title=progress&width=500&color=babaca&suffix=/44)
+![100%](https://progress-bar.dev/5/?scale=44&title=progress&width=500&color=babaca&suffix=/44)
 
 [문제집 링크](https://www.acmicpc.net/workbook/view/7319)
 
 | 문제 분류  |  문제   |                           문제 제목                            |                                  정답 코드                                  |
 |:------:|:-----:|:----------------------------------------------------------:|:-----------------------------------------------------------------------:|
-| 연습 문제  | 1463  |       [1로 만들기](https://www.acmicpc.net/problem/1463)       |  [정답 코드](../../baa_kingDog/dynamicProgramming/_1463_1로_만들기/Main.java)   |     |
-| 연습 문제  | 9095  |    [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)     | [정답 코드](../../baa_kingDog/dynamicProgramming/_9095_1_2_3_더하기/Main.java) |     |
-| 연습 문제  | 2579  |       [계단 오르기](https://www.acmicpc.net/problem/2579)       |  [정답 코드](../../baa_kingDog/dynamicProgramming/_2579_계단_오르기/Main.java)   |     |
-| 연습 문제  | 1149  |       [RGB거리](https://www.acmicpc.net/problem/1149)        |   [정답 코드](../../baa_kingDog/dynamicProgramming/_1149_RGB거리/Main.java)   |     |
+| 연습 문제  | 1463  |       [1로 만들기](https://www.acmicpc.net/problem/1463)       |  [정답 코드](../../baa_kingDog/dynamicProgramming/_1463_1로_만들기/Main.java)   | 
+| 연습 문제  | 9095  |    [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)     | [정답 코드](../../baa_kingDog/dynamicProgramming/_9095_1_2_3_더하기/Main.java) |   
+| 연습 문제  | 2579  |       [계단 오르기](https://www.acmicpc.net/problem/2579)       |  [정답 코드](../../baa_kingDog/dynamicProgramming/_2579_계단_오르기/Main.java)   |
+| 연습 문제  | 1149  |       [RGB거리](https://www.acmicpc.net/problem/1149)        |   [정답 코드](../../baa_kingDog/dynamicProgramming/_1149_RGB거리/Main.java)   |
 | 연습 문제  | 11726 |      [2×n 타일링](https://www.acmicpc.net/problem/11726)      |                                                                         |
 | 연습 문제  | 11659 |    [구간 합 구하기 4](https://www.acmicpc.net/problem/11659)     |                                                                         |
 | 연습 문제  | 12852 |     [1로 만들기 2](https://www.acmicpc.net/problem/12852)      |                                                                         |
@@ -38,7 +38,7 @@
 | 기본 문제  | 1788  |     [피보나치 수의 확장](https://www.acmicpc.net/problem/1788)     |                                                                         |
 | 기본 문제  | 4883  |       [삼각 그래프](https://www.acmicpc.net/problem/4883)       |                                                                         |
 | 응용 문제✔ | 9251  |        [LCS](https://www.acmicpc.net/problem/9251)         |                                                                         |
-| 응용 문제✔ | 1699  |       [제곱수의 합](https://www.acmicpc.net/problem/1699)       |                                                                         |
+| 응용 문제✔ | 1699  |       [제곱수의 합](https://www.acmicpc.net/problem/1699)       |  [정답 코드](../../baa_kingDog/dynamicProgramming/_1699_제곱수의_합/Main.java)   |
 | 응용 문제✔ | 9084  |         [동전](https://www.acmicpc.net/problem/9084)         |                                                                         |
 | 응용 문제✔ | 1915  |     [가장 큰 정사각형](https://www.acmicpc.net/problem/1915)      |                                                                         |
 | 응용 문제✔ | 10942 |       [팰린드롬?](https://www.acmicpc.net/problem/10942)       |                                                                         |

@@ -32,7 +32,7 @@
 | 0x0D |       [시뮬레이션](src/baa_kingDog/simulation/README.md)        | ![100%](https://progress-bar.dev/1/?scale=61&title=progress&width=500&color=babaca&suffix=/61) |
 | 0x0E |                            정렬 I                            |  ![100%](https://progress-bar.dev/0/?scale=8&title=progress&width=500&color=babaca&suffix=/8)  |
 | 0x0F |                           정렬 II                            |  ![100%](https://progress-bar.dev/0/?scale=9&title=progress&width=500&color=babaca&suffix=/9)  |
-| 0x10 | [다이나믹 프로그래밍](src/baa_kingDog/dynamicProgramming/README.md) | ![100%](https://progress-bar.dev/4/?scale=44&title=progress&width=500&color=babaca&suffix=/44) |
+| 0x10 | [다이나믹 프로그래밍](src/baa_kingDog/dynamicProgramming/README.md) | ![100%](https://progress-bar.dev/5/?scale=44&title=progress&width=500&color=babaca&suffix=/44) |
 | 0x11 |                            그리디                             | ![100%](https://progress-bar.dev/0/?scale=17&title=progress&width=500&color=babaca&suffix=/17) |
 | 0x12 |                             수학                             | ![100%](https://progress-bar.dev/0/?scale=39&title=progress&width=500&color=babaca&suffix=/39) |
 | 0x13 |                            이분탐색                            | ![100%](https://progress-bar.dev/0/?scale=21&title=progress&width=500&color=babaca&suffix=/21) |
